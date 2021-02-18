@@ -1,4 +1,4 @@
-# optimize-video-for-web
+# Optimize Video for Web
 
 This shell script allows you to optimize videos for web, generating a optimized MP4 and WebM.
 
